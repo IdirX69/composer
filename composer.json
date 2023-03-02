@@ -1,0 +1,16 @@
+{
+    "name": "idir/quests",
+    "description": "questPhp",
+    "autoload": {
+        "psr-4": {
+            "Idir\\Quests\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "IdirX69",
+            "email": "adil.idirr@gmail.com"
+        }
+    ],
+    "require": {}
+}
